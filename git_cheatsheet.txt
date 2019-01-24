@@ -1,0 +1,19 @@
+This is a simple guide to using git for this class.  If you stick with this cheatsheet, you should have no problems in the future.
+
+1.  Start by cloning the repository you wish to share.  For this repository, you would replace "link" with "https://github.com/dcumming/330Resources.git" and replace desination with name of the folder you would like to store the contents of this repository.
+
+git clone link destination
+
+2.  Now that you have the skeleton code on your machine, you are going to want to edit that code and submit.  Then the next project will be posted to git and you will need the newest updates to the repository on your machine.  To get the new files try:
+
+git pull
+
+Should this potentially give you merge conflict issues since you have edited your code locally but don't want to overwrite it with the skeleton code on GitHub, try:
+
+git stash
+git pull
+git stash pop
+
+This will stash away your local changes, pull the new materials from the repository onto your machine, and lastly merge your stashed local changes with the version you just pulled in.
+
+3.  There should be no pushing to the repository.  None of your code should be pushed to the repository.  Doing so could result in an academic integrity violation.
