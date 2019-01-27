@@ -5,4 +5,4 @@ Although a lot of resources exist already for CMSC330, I wanted to make my own s
 
 I believe that doing these worksheets could be very rewarding to those looking to master the course and do well.  Note: these are not mandatory, only helpful resources.
 
-Every Friday discussion, I will aim to post a new worksheet and every Sunday, I will aim to post a solution guide.  Additionally, if I find anything else that may be helpful, I will post it here as well.
+Every Friday discussion, I will aim to post a new worksheet.  I won't be posting any solutions, but you are welcome to discuss with me about it.  Additionally, if I find anything else that may be helpful, I will post it here as well.
