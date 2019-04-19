@@ -1,0 +1,13 @@
+
+     Ruby      |     OCaml     |      Rust
+_______________________________________________
+Imperative /   | Functional    | Imperative /
+Scripting / OO |               | Functional
+               |               |
+Dynamically    | Statically    | Statically
+Typed          | Typed         | Typed
+               |               |
+Implicit       | Explicit      | Explicit
+Declaration    | Declaration   | Declaration
+
+
